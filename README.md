@@ -1,3 +1,3 @@
 # Demo
 This is my first tutorial git repository.
-Author : Shreya
+Author : Shreya.
